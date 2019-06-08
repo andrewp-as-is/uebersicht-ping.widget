@@ -7,7 +7,7 @@ update: (output, domEl) ->
 
 style: """
 right: 0%
-top: 2%
+top: 5%
 text-align: center
 font-family:monospace
 """

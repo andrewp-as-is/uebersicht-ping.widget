@@ -13,5 +13,9 @@
 	<integer>1</integer>
 	<key>ThrottleInterval</key>
 	<integer>1</integer>
+	<key>StandardOutPath</key>
+	<string>/tmp/uebersicht.ping.out.log</string>
+	<key>StandardErrorPath</key>
+	<string>/tmp/uebersicht.ping.err.log</string>
 </dict>
 </plist>
